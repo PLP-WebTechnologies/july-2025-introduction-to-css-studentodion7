@@ -1,0 +1,33 @@
+
+
+.title-heading {
+  display: inline-block;       /* Shrink to fit text */
+  background-color: rgba(190, 65, 43, 0.532);
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.cta-heading {
+  display: inline-block;       /* Shrink to fit text */
+  background-color: #c9d2ea;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #333;
+  margin-top: 30px;
+}
+
+button{
+    background-color: brown;
+    color: beige;
+    padding: 0.8rem 1.5rem ;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    }
+
+button:hover {
+    background: rgb(46, 59, 53);
+    }
